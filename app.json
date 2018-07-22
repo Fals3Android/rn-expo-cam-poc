@@ -1,16 +1,16 @@
 {
 	"expo": {
-		"name": "Sample App",
-    "sdkVersion": "27.0.0",
+		"name": "Sample Camera App",
+		"sdkVersion": "27.0.0",
 		"icon": "",
 		"description": "Basic app",
 		"version": "1.0.1",
 		"orientation": "portrait",
 		"ios": {
-			"bundleIdentifier": "com.cuemed.test-app"
+			"bundleIdentifier": "com.camera.app"
 		},
 		"android": {
-			"package": "com.cuemed.test-app"
+			"package": "com.camera.app"
 		}
 	}
 }
